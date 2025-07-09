@@ -1,0 +1,15 @@
+{
+  "name": "streambuzz",
+  "version": "1.0.0",
+  "description": "backend of clone of youtube plus twitter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Jugal Patel",
+  "license": "ISC"
+}
